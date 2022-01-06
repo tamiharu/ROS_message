@@ -4,7 +4,7 @@
 ファイル名【scripts】内にある【count.py】と【twice.py】を使ったメッセージを表示するパッケージです。
 
 ## 動作環境 
-・OS Ubuntu 20.04  
+・OS：Ubuntu 20.04  
 ・ROS1
 
 ## 実行方法
@@ -37,5 +37,5 @@ ROSを有効にする。
 [動画](https://www.youtube.com/watch?v=_PnO3ojpHpU)  
 
 ## その他(ライセンス、著作権者等)
-・ライセンス：[BSD 3-Clause License]()  
+・ライセンス：[BSD 3-Clause License](https://github.com/tamiharu/ROS_message/blob/main/LICENSE)  
 ・著作権者：上田隆一(Ryuichi Ueda)
