@@ -33,7 +33,7 @@ ROSを有効にします。
 ```rosrun mypkg twice.py```
 
 ## 動作結果（動画）  
-動作した結果をyoutubeにて公開しています。
+動作した結果をyoutubeにて公開しています。  
 [動画](https://www.youtube.com/watch?v=_PnO3ojpHpU)  
 
 ## その他(ライセンス、著作権者等)
