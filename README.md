@@ -12,7 +12,7 @@
 ```
 cd ~/catkin_ws/src
 git clone https://github.com/tamiharu/ROSROS.git
-cd ~/catkin_ws
+cd ~/ROS_message
 catkin_make
 soource ~/.bashrc
 ```
